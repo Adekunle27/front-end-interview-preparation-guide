@@ -84,9 +84,6 @@ don't know an answer spend extra time understanding it.
 
 #### [Frontend Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
-and
-<a href="https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/tree/master/answers">answers</a>
-
 #### [That JS Dude](http://www.thatjsdude.com/interview/)
 
 #### [Frontend Job Interview Questions, including algorithms](https://github.com/khan4019/front-end-Interview-Questions)
